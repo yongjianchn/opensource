@@ -13,3 +13,5 @@ https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?h=linux
 
 ## tengine
 https://github.com/alibaba/tengine/commit/8318cbc7d26f48d396a663bb9111395937ff2d5b
+
+https://github.com/yaoweibin/nginx_upstream_check_module/commit/961e0b2c0ffcf09a5ae6b631cb62aa5d0df65441
