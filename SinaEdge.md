@@ -18,3 +18,8 @@
 * fix 3939 collision
     * https://github.com/apache/trafficserver/issues/5175 by @rienzi2012
     * https://github.com/apache/trafficserver/pull/5362 by @wolfgangbai
+
+## DPVS
+https://github.com/iqiyi/dpvs/pull/662  
+https://github.com/iqiyi/dpvs/pull/670  
+https://github.com/iqiyi/dpvs/pull/774  
